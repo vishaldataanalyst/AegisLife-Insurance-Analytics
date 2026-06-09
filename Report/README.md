@@ -6,16 +6,36 @@ AegisLife Insurance Analytics is an end-to-end data analytics project developed 
 
 The project demonstrates a complete analytics workflow using Python, MySQL, and Power BI, covering data cleaning, exploratory data analysis (EDA), hypothesis testing, business insights generation, and dashboard development.
 
+## Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](Dashboard%20Screenshots/Executive_Dashboard.png)
+
+### Agent Performance Dashboard
+![Agent Performance Dashboard](Dashboard%20Screenshots/Agent_Performance_Dashboard.png)
+
+### Customer Risk Dashboard
+![Customer Risk Dashboard](Dashboard%20Screenshots/Customer_Risk_Dashboard.png)
+
+
+---
+
+## Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/vishalchauhan10k
+
+**GitHub:** https://github.com/vishaldataanalyst
+
 ---
 
 ## Business Objectives
 
-* Analyze insurance policy performance
-* Evaluate claim trends and claim approval patterns
-* Identify fraud-related risks
-* Assess agent productivity
-* Understand customer risk profiles
-* Generate actionable business recommendations
+- Analyze insurance policy performance
+- Evaluate claim trends and claim approval patterns
+- Identify fraud-related risks
+- Assess agent productivity
+- Understand customer risk profiles
+- Generate actionable business recommendations
 
 ---
 
